@@ -87,6 +87,7 @@ To fetch data from the Marvel API, you'll need to obtain your Public and Private
 
 ```bash
 npm run dev
+```
 
 ## 🚀 Local Development
 
