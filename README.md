@@ -69,9 +69,8 @@ To fetch data from the Marvel API, you'll need to obtain your Public and Private
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/VolodX/marvel-api-explorer.git](https://github.com/VolodX/marvel-api-explorer.git)
+    git clone https://github.com/VolodX/marvel-api-explorer.git
     ```
-    (Replace the URL with your actual repository URL)
 
 2.  **Navigate into the project directory:**
     ```bash
